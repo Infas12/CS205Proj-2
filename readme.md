@@ -10,7 +10,7 @@ Then:
 mkdir build
 cd build
 cmake ..
-make release
+make debug
 ./Calculator
 ```
 
